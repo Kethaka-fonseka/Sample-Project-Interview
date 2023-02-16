@@ -1,0 +1,11 @@
+.registration-form{
+    width: 500px;
+    height: max-content;
+    padding: 20px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(238, 241, 243);
+}
+.wrapper {
+    height: 100vh;
+}
